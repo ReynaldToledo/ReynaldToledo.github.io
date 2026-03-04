@@ -1,0 +1,565 @@
+{
+  "site": {
+    "title": "Webcraft — Portfolio",
+    "year": 2026
+  },
+
+  "sidebar": {
+    "avatar": {
+      "src": "assets/images/avatar.svg",
+      "alt": "Webcraft avatar",
+      "width": 88,
+      "height": 88
+    },
+    "profile": {
+      "name": "Reynald Toledo",
+      "role": "WebDeveloper | GHL Specialist | SEO",
+      "homeHref": "#top",
+      "homeAria": "Webcraft home"
+    },
+
+    "contact": {
+      "email": "reynaldtoledova@gmail.com",
+      "phoneDisplay": "+63 938 866 9635",
+      "phoneTel": "+639388669635",
+      "messaging": [
+        {
+          "label": "WhatsApp",
+          "url": "https://wa.me/639388669635",
+          "targetBlank": true
+        },
+        {
+          "label": "Viber",
+          "url": "viber://chat?number=%2B639388669635",
+          "targetBlank": false
+        },
+        {
+          "label": "Telegram",
+          "url": "https://t.me/Reynald10",
+          "targetBlank": true
+        }
+      ],
+      "location": "Caloocan City, Metro Manila, Philippines"
+    },
+
+    "socials": {
+      "label": "Socials",
+      "items": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/ReynaldToledo",
+          "icon": {
+            "type": "svgPath",
+            "viewBox": "0 0 24 24",
+            "path": "M12 .5a12 12 0 0 0-3.79 23.4c.6.11.82-.26.82-.58v-2.02c-3.34.73-4.04-1.61-4.04-1.61-.55-1.4-1.35-1.77-1.35-1.77-1.1-.75.08-.73.08-.73 1.22.09 1.86 1.26 1.86 1.26 1.08 1.86 2.83 1.32 3.51 1.01.11-.79.42-1.32.77-1.62-2.67-.3-5.48-1.33-5.48-5.93 0-1.31.47-2.38 1.24-3.22-.12-.3-.54-1.52.12-3.17 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6.01 0c2.29-1.55 3.3-1.23 3.3-1.23.66 1.65.24 2.87.12 3.17.77.84 1.24 1.91 1.24 3.22 0 4.61-2.81 5.62-5.49 5.92.43.37.82 1.1.82 2.22v3.29c0 .32.22.7.83.58A12 12 0 0 0 12 .5Z"
+          }
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/reynald-webdeveloper",
+          "icon": {
+            "type": "svgPath",
+            "viewBox": "0 0 24 24",
+            "path": "M4.98 3.5C4.98 4.88 3.87 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.5 8h4V23h-4V8zM8.5 8h3.8v2.05h.05c.53-1 1.83-2.05 3.77-2.05 4.03 0 4.78 2.65 4.78 6.1V23h-4v-6.6c0-1.57-.03-3.6-2.2-3.6-2.2 0-2.54 1.72-2.54 3.5V23h-4V8z"
+          }
+        },
+        {
+          "label": "Upwork",
+          "url": "https://www.upwork.com/freelancers/~0174edd654a3469880",
+          "icon": {
+            "type": "svgPath",
+            "viewBox": "0 0 24 24",
+            "path": "M18.6 7.2c-1.5 0-2.8.7-3.7 1.8-.7-1.1-1.2-2.3-1.6-3.6h-2.1v6.7c0 1.9-1.2 3.2-3 3.2-1.8 0-3-1.3-3-3.2V7.2H3v4.9c0 3.2 2.1 5.4 5.2 5.4 2.2 0 3.9-1.1 4.8-2.8.7 1.2 1.8 2.2 3.3 2.6 1.9.5 4-.1 5.2-1.6.8-1 1.2-2.2 1.2-3.5 0-2.9-1.8-4.9-4.1-4.9zm0 7c-1.3 0-2.4-1.2-3.1-2.8.6-1.1 1.7-1.9 3.1-1.9 1.4 0 2.3 1.2 2.3 2.7s-.9 2-2.3 2z"
+          }
+        },
+        {
+          "label": "OnlineJobs.ph",
+          "url": "https://www.onlinejobs.ph/jobseekers/info/2213260",
+          "icon": {
+            "type": "svgPath",
+            "viewBox": "0 0 24 24",
+            "path": "M10 4h4a2 2 0 0 1 2 2v2h4a2 2 0 0 1 2 2v2H2v-2a2 2 0 0 1 2-2h4V6a2 2 0 0 1 2-2zm6 4V6a1 1 0 0 0-1-1h-6a1 1 0 0 0-1 1v2h8zm6 7v5a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-5h8v1h4v-1h8z"
+          }
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/reynald.m.toledo",
+          "icon": {
+            "type": "svgPath",
+            "viewBox": "0 0 24 24",
+            "path": "M13.5 22v-9h3l.5-3h-3.5V8.5c0-.9.3-1.5 1.6-1.5H17V4.2c-.3 0-1.4-.2-2.8-.2-2.8 0-4.7 1.7-4.7 4.9V10H6.8v3h2.7v9h4z"
+          }
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/nadz.toledo/",
+          "icon": {
+            "type": "svgPath",
+            "viewBox": "0 0 24 24",
+            "path": "M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5zm10 2H7a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3zm-5 4a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm5.5-.9a1.1 1.1 0 1 1-2.2 0 1.1 1.1 0 0 1 2.2 0z"
+          }
+        }
+      ]
+    },
+
+    "techStack": {
+      "title": "Tech Stack",
+      "icons": [
+        { "src": "assets/icons/html.svg", "alt": "HTML" },
+        { "src": "assets/icons/css.svg", "alt": "CSS" },
+        { "src": "assets/icons/javascript.svg", "alt": "JavaScript" },
+        { "src": "assets/icons/php.svg", "alt": "PHP" }
+      ]
+    },
+
+    "softwares": {
+      "title": "Softwares",
+      "icons": [
+        {
+          "src": "assets/icons/vscode.svg",
+          "alt": "Visual Studio Code",
+          "title": "Visual Studio Code"
+        },
+        {
+          "src": "assets/icons/devtools.svg",
+          "alt": "Chrome DevTools",
+          "title": "Chrome DevTools"
+        },
+        { "src": "assets/icons/xampp.svg", "alt": "XAMPP", "title": "XAMPP" },
+        { "src": "assets/icons/wordpress.svg", "alt": "WordPress", "title": "WordPress" },
+        { "src": "assets/icons/shopify.svg", "alt": "Shopify", "title": "Shopify" },
+        { "src": "assets/icons/wix.svg", "alt": "Wix", "title": "Wix" },
+        { "src": "assets/icons/webflow.svg", "alt": "Webflow", "title": "Webflow" },
+        { "src": "assets/icons/ghl.svg", "alt": "GoHighLevel", "title": "GoHighLevel" },
+        { "src": "assets/icons/zapier.svg", "alt": "Zapier", "title": "Zapier" },
+        { "src": "assets/icons/yoast.svg", "alt": "Yoast SEO", "title": "Yoast SEO" },
+        { "src": "assets/icons/canva.svg", "alt": "Canva", "title": "Canva" },
+        { "src": "assets/icons/asana.svg", "alt": "Asana", "title": "Asana" },
+        { "src": "assets/icons/clickup.svg", "alt": "ClickUp", "title": "ClickUp" }
+      ]
+    }
+  },
+
+  "tabs": {
+    "defaultTitle": "About Me",
+    "items": [
+      { "id": "about", "label": "About", "title": "About Me" },
+      { "id": "resume", "label": "Resume", "title": "Resume" },
+      { "id": "portfolio", "label": "Portfolio", "title": "Portfolio" },
+      { "id": "contact", "label": "Contact", "title": "Contact" }
+    ]
+  },
+
+  "about": {
+    "lead": "I build fast, structured, and conversion-ready digital systems.",
+    "paragraphs": [
+      "I’m a front-end and WordPress developer combining clean UI, performance-focused development, on-page SEO, and GoHighLevel automation to help businesses capture leads and scale efficiently.",
+      "I work with business owners, recruiters, and technical teams who value clarity, clean implementation, and systems built for long-term growth.",
+      "If you share your site or funnel and your goal, I’ll reply with the simplest path to “done.”"
+    ],
+    "badges": ["WordPress", "Performance", "On-Page SEO", "GoHighLevel", "Automation"],
+    "bullets": [
+      "Custom WordPress builds, redesigns, and maintenance (clean structure + scalable setup)",
+      "Performance optimization (Core Web Vitals mindset: LCP/CLS, image + asset strategy)",
+      "On-page SEO implementation (metadata, heading structure, internal linking, schema)",
+      "GoHighLevel funnels + CRM workflows (automation-driven lead capture + follow-ups)",
+      "Technical support that’s reliable and process-based (not random fixes)"
+    ]
+  },
+
+  "whatImDoing": [
+    {
+      "id": "webdev",
+      "title": "Web Development",
+      "desc": "Website development using WordPress and modern CMS platforms, focused on clean structure, performance, and scalable architecture.",
+      "includes": [
+        "Custom theme configuration",
+        "CMS setup & migration",
+        "Plugin / app integration",
+        "Speed and structure optimization",
+        "Landing page builds"
+      ]
+    },
+    {
+      "id": "ghl",
+      "title": "GoHighLevel & AI Automations",
+      "desc": "Funnels, CRM workflows, AI-powered automations, and integrations to streamline lead capture and follow-ups.",
+      "includes": [
+        "GoHighLevel funnel design",
+        "Workflow automation",
+        "AI-based lead nurturing",
+        "Zapier integrations",
+        "CRM setup & optimization"
+      ]
+    },
+    {
+      "id": "seo",
+      "title": "On-Page SEO",
+      "desc": "Technical SEO implementation ensuring websites are structured, index-ready, and optimized for search engines.",
+      "includes": [
+        "Meta title & description optimization",
+        "Schema markup setup",
+        "Internal linking structure",
+        "Yoast SEO & Rank Math configuration",
+        "Keyword placement strategy"
+      ]
+    },
+    {
+      "id": "va",
+      "title": "Technical Virtual Assistance",
+      "desc": "Reliable backend support across websites, funnels, and automation systems.",
+      "includes": [
+        "Website updates",
+        "Funnel edits",
+        "CRM adjustments",
+        "Plugin management",
+        "Basic troubleshooting",
+        "System organization"
+      ]
+    },
+    {
+      "id": "teach",
+      "title": "Teaching & Technical Guidance",
+      "desc": "Practical guidance for web/CMS workflows, structure, and implementation.",
+      "includes": [
+        "Web basics (HTML/CSS structure)",
+        "WordPress workflows",
+        "System setup guidance",
+        "Practical implementation support"
+      ]
+    }
+  ],
+
+  "testimonials": [
+    {
+      "name": "Edwin Goh",
+      "meta": "Singapore Realtor",
+      "quote": "Reynald Toledo developed and manages our website with great skill and professionalism. The site is visually appealing, functional, and user-friendly. Reynald is always quick to implement updates and provides excellent support."
+    },
+    {
+      "name": "Stephen Gardner",
+      "meta": "CEO, Stephen Gardner SEO",
+      "quote": "Due to reasons beyond his control, I only got to work with Reynald briefly, but his communication, responsiveness, and personality shined through. I definitely will use him again in the future if the need arises."
+    },
+    {
+      "name": "Lolita De Leon",
+      "meta": "Owner, Lolita Shoplinks",
+      "quote": "You did a great job creating my online franchise website. Your attention to detail and ability to follow my instructions made the process smooth and easy. You captured the essence of my brand and translated it into a visually appealing design."
+    },
+    {
+      "name": "Anna Bruzon Rafallo",
+      "meta": "Teacher II",
+      "quote": "Demonstrated impressive ICT skills, simplifying complex concepts and creating inventive lesson plans."
+    },
+    {
+      "name": "Caroline Sumande",
+      "meta": "Professor, PUP",
+      "quote": "Exceptional administrative skills with strong communication, adaptability, and problem-solving abilities."
+    }
+  ],
+
+  "resume": {
+    "downloadUrl": "assets/Reynald toledo.pdf",
+    "headline": {
+      "title": "Headline",
+      "strong": "WordPress Developer | SEO Specialist | Virtual Assistant",
+      "text": "Web Developer with 3+ years of experience specializing in WordPress development, plugin development/customization, on-page SEO, and responsive UI/UX. Proven success working with international clients and improving performance + conversions. Trained in virtual assistance, B2B communication, and lead generation."
+    },
+    "coreStrengths": {
+      "title": "Core Strengths",
+      "items": [
+        "WordPress builds, maintenance, and plugin customization",
+        "On-page SEO implementation (structure, metadata, internal linking)",
+        "Performance optimization mindset (speed + clean architecture)",
+        "GoHighLevel funnels, workflows, CRM setup + Zapier integrations",
+        "Reliable technical VA support (updates, troubleshooting, execution)"
+      ]
+    },
+    "skills": [
+      {
+        "title": "CMS & Platforms",
+        "items": ["WordPress", "WooCommerce", "Shopify", "Wix", "Webflow", "GoHighLevel"]
+      },
+      { "title": "Page Builders", "items": ["Elementor", "Divi", "WPBakery", "Gutenberg"] },
+      { "title": "Frontend", "items": ["HTML5", "CSS3", "JavaScript", "PHP (basic)"] },
+      {
+        "title": "SEO & Performance",
+        "items": [
+          "On-page SEO",
+          "Meta tags",
+          "Headings optimization",
+          "Internal linking",
+          "Image optimization",
+          "PageSpeed optimization",
+          "GTmetrix",
+          "Google PageSpeed Insights"
+        ]
+      },
+      {
+        "title": "Automation & CRM",
+        "items": ["GoHighLevel Workflows", "Zapier Automations", "Funnel Builder", "CRM Setup"]
+      }
+    ],
+    "workExperience": [
+      {
+        "title": "Web Developer — PropertyNet (Singapore)",
+        "date": "Feb 2024 – Dec 2025",
+        "datetime": "2024-02",
+        "bullets": [
+          "Built and maintained responsive WordPress websites for real estate clients, supporting property listing workflows.",
+          "Developed and customized WordPress plugins to automate listing updates and map-based location features.",
+          "Optimized themes/plugins for SEO and speed, targeting sub-2-second load times."
+        ]
+      },
+      {
+        "title": "Website Developer / Manager — Stephen Gardner SEO (USA)",
+        "date": "Oct 2023",
+        "datetime": "2023-10",
+        "bullets": [
+          "Managed multiple WordPress websites for a U.S.-based public figure.",
+          "Performed content updates, bug fixes, and performance optimizations.",
+          "Coordinated with the team using Google Workspace and Asana to hit publishing deadlines."
+        ]
+      },
+      {
+        "title": "Web Developer — Lolita Shop Links (USA)",
+        "date": "Feb 2021 – Jun 2021",
+        "datetime": "2021-02",
+        "bullets": [
+          "Designed and deployed an e-commerce website.",
+          "Improved UI/UX and contributed to a 30% increase in online sales."
+        ]
+      }
+    ],
+    "projectExperience": [
+      {
+        "title": "Local Jungle — WordPress Website (Auto Repair)",
+        "date": "Dec 2025 – Jan 2026",
+        "datetime": "2025-12",
+        "bullets": [
+          "Built and customized a responsive WordPress website for a local auto repair business.",
+          "Implemented basic on-page SEO (meta tags, internal links).",
+          "Improved site speed by compressing images and removing unused plugins."
+        ]
+      },
+      {
+        "title": "Website Digital Solution — Website & Mobile App Dev",
+        "date": "Dec 2022",
+        "datetime": "2022-12",
+        "bullets": [
+          "Developed a mobile-first e-commerce website using WordPress + WooCommerce.",
+          "Integrated chat and analytics tools for user tracking."
+        ]
+      },
+      {
+        "title": "Bloggy Mary — Virtual Assistant Training",
+        "date": "Sept 2022",
+        "datetime": "2022-09",
+        "bullets": [
+          "Completed VA training focused on admin support workflows and digital execution."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "title": "Polytechnic University of the Philippines",
+        "date": "Graduated Oct 2022",
+        "datetime": "2022-10",
+        "desc": "Bachelor in Business Technology Livelihood Education (BBTLeD), major in Information Communication Technology."
+      }
+    ]
+  },
+
+  "portfolio": {
+    "lead": "Selected work. Clean builds, performance-focused, and conversion-ready.",
+    "projects": [
+      {
+        "id": "the-continuum",
+        "title": "The Continuum",
+        "sub": "Real Estate Website",
+        "tags": ["client", "wordpress", "divi"],
+        "image": "assets/portfolio/thecontinuum.png",
+        "alt": "The Continuum preview",
+        "desc": "Luxury condominium site with project listings and booking options.",
+        "tools": "WordPress (Divi)",
+        "url": "https://thecontinuum.officialpage.co/"
+      },
+      {
+        "id": "property-net",
+        "title": "Property Net",
+        "sub": "Real Estate Website",
+        "tags": ["client", "wordpress", "divi"],
+        "image": "assets/portfolio/propertynet.png",
+        "alt": "Property Net preview",
+        "desc": "Project launches, floor plans, pricing and virtual tours.",
+        "tools": "WordPress (Divi)",
+        "url": "https://propertynet.sg/"
+      },
+      {
+        "id": "tlc-auto-truck",
+        "title": "TLC Auto Truck",
+        "sub": "Auto Repair Website",
+        "tags": ["client", "wordpress", "PHP", "custom-theme"],
+        "image": "assets/portfolio/tlc.png",
+        "alt": "TLC Auto Truck preview",
+        "desc": "Service pages, contact system and branding.",
+        "tools": "WordPress (Gutenberg)",
+        "url": "https://tlcautotruck.com/"
+      },
+      {
+        "id": "grand-dunman",
+        "title": "Grand Dunman",
+        "sub": "Real Estate Website",
+        "tags": ["client", "wordpress", "divi"],
+        "image": "assets/portfolio/granddunman.png",
+        "alt": "Grand Dunman preview",
+        "desc": "Showcase site focused on amenities, location highlights, and conversions.",
+        "tools": "WordPress (Divi)",
+        "url": "https://granddunman.officialpage.co/"
+      },
+      {
+        "id": "dr-roseann",
+        "title": "Dr.Roseann",
+        "sub": "Business Website",
+        "tags": ["client", "wordpress", "elementor"],
+        "image": "assets/portfolio/drroseann.png",
+        "alt": "Dr. Roseann preview",
+        "desc": "Business site layout with clear CTA structure and service navigation.",
+        "tools": "WordPress (Elementor)",
+        "url": "https://drroseann.com/"
+      },
+      {
+        "id": "the-chuan-park",
+        "title": "The Chuan Park",
+        "sub": "Real Estate Website",
+        "tags": ["client", "wordpress", "divi"],
+        "image": "assets/portfolio/thechuanpark.png",
+        "alt": "The Chuan Park preview",
+        "desc": "Condo launch page focused on premium positioning and lead capture.",
+        "tools": "WordPress (Divi)",
+        "url": "https://propertynet.sg/project/chuan-park/"
+      },
+      {
+        "id": "mattar-residences",
+        "title": "Mattar Residences",
+        "sub": "Real Estate Website",
+        "tags": ["client", "wordpress", "divi"],
+        "image": "assets/portfolio/mattar.png",
+        "alt": "Mattar Residences preview",
+        "desc": "Modern living concept page with clean sections and lead-generation flow.",
+        "tools": "WordPress (Divi)",
+        "url": "https://mattarresidences.officialpage.co/"
+      },
+      {
+        "id": "meyer-blue",
+        "title": "Meyer Blue",
+        "sub": "Real Estate Website",
+        "tags": ["client", "wordpress", "divi"],
+        "image": "assets/portfolio/meyerblue.png",
+        "alt": "Meyer Blue preview",
+        "desc": "Premium condo presentation page with strong hierarchy and visual clarity.",
+        "tools": "WordPress (Divi)",
+        "url": "https://meyerblue.officialpage.co/"
+      },
+      {
+        "id": "life-after-divorce",
+        "title": "Life After Divorce",
+        "sub": "Business Website",
+        "tags": ["client", "wordpress", "elementor"],
+        "image": "assets/portfolio/lifeafterdivorce.webp",
+        "alt": "Life After Divorce preview",
+        "desc": "Landing page designed to drive bookings with clear messaging and CTA.",
+        "tools": "WordPress (Elementor)",
+        "url": "https://lad-coaching.com/"
+      },
+      {
+        "id": "southfl-waterfront-homes",
+        "title": "Southfl Water Front Homes",
+        "sub": "Business Website",
+        "tags": ["client", "wordpress", "elementor"],
+        "image": "assets/portfolio/southfl.png",
+        "alt": "Southfl Water Front Homes preview",
+        "desc": "Professional agent site with listings-style layout and strong trust signals.",
+        "tools": "WordPress (Elementor)",
+        "url": "https://southflwaterfronthomes.com/"
+      },
+      {
+        "id": "pendulum-rocks",
+        "title": "Pendulum Rocks",
+        "sub": "Business Website",
+        "tags": ["client", "wordpress", "elementor", "shopify"],
+        "image": "assets/portfolio/pendulum.webp",
+        "alt": "Pendulum Rocks preview",
+        "desc": "Product-focused layout with clear sections and conversion-ready flow.",
+        "tools": "WordPress (Elementor), Shopify",
+        "url": "https://pendulumrocks.com/"
+      },
+      {
+        "id": "lolita-shoplinks",
+        "title": "LOLITA SHOPLINKS",
+        "sub": "E-Commerce Website",
+        "tags": ["client", "portfolio", "css", "html", "javascript"],
+        "image": "assets/portfolio/lolita.png",
+        "alt": "Lolita Shoplinks preview",
+        "desc": "Multi-link storefront with galleries and a clean browsing experience.",
+        "tools": "HTML, CSS, Basic JavaScript",
+        "url": "https://lolita-shop.netlify.app/"
+      },
+      {
+        "id": "kitchen-express",
+        "title": "KITCHEN EXPRESS",
+        "sub": "E-Commerce Website",
+        "tags": ["portfolio", "mobirise", "html", "css", "javascript"],
+        "image": "assets/portfolio/kitchenexpress.png",
+        "alt": "Kitchen Express preview",
+        "desc": "Online restaurant site with ordering flow and responsive layout.",
+        "tools": "Mobirise Platform",
+        "url": "https://core3.m4k.co/m/87564/p/1066790"
+      },
+      {
+        "id": "wix-portfolio-website",
+        "title": "WIX PORTFOLIO WEBSITE",
+        "sub": "Portfolio Website",
+        "tags": ["portfolio", "wix"],
+        "image": "assets/portfolio/wix.png",
+        "alt": "Wix portfolio preview",
+        "desc": "Internship portfolio website built on Wix with clean layout and sections.",
+        "tools": "Wix (CMS Platform)",
+        "url": "https://toledoreynald20.wixsite.com/website"
+      },
+      {
+        "id": "client-onboarding-system",
+        "title": "CLIENT ONBOARDING SYSTEM",
+        "sub": "Automation System",
+        "tags": ["portfolio", "make.com", "automation"],
+        "image": "assets/portfolio/make.jfif",
+        "alt": "client onboarding system preview",
+        "desc": "Automation system for client onboarding built on make.com",
+        "tools": "make.com (Automation Platform)",
+        "url": "https://us2.make.com/public/shared-scenario/R3tu5vl4Cwv/integration-click-up"
+      }
+    ]
+  },
+
+  "contact": {
+    "lead": "Tell me what you’re building and what “done” looks like. I’ll reply with the next steps and timeline.",
+    "cardTitle": "Let’s work together",
+    "cardText": "Best for: WordPress builds, fixes, performance (90+), on-page SEO, and GHL funnel pages.",
+    "details": {
+      "email": "reynaldtoledova@gmail.com",
+      "location": "Metro Manila, PH",
+      "responseTime": "Within 24–48 hours"
+    },
+    "form": {
+      "projectOptions": [
+        "WordPress build / redesign",
+        "Bug fixes / maintenance",
+        "Speed optimization (90+)",
+        "On-page SEO",
+        "GHL funnel / automation"
+      ],
+      "hint": "No spam. Clear, direct replies only.",
+      "button": "Send message"
+    }
+  }
+}
